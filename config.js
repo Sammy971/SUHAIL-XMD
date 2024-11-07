@@ -62,7 +62,7 @@ global.api_smd = "https://api.kyuurzy.site/api/download/aio" //  || "https://api
 global.scan = "https://suhail-md-vtsf.onrender.com";
 
 
-global.SESSION_ID = process.env.SESSION_ID  || ""  // PUT your SESSION_ID 
+global.SESSION_ID = process.env.SESSION_ID  || "+2348143319231"  // PUT your SESSION_ID 
 
 
 module.exports = {
@@ -77,7 +77,7 @@ module.exports = {
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
   botname : process.env.BOT_NAME  || "Suhail-XMD",
-  ownername:process.env.OWNER_NAME|| "Suhail-X",
+  ownername:process.env.OWNER_NAME|| "Sammy",
 
 
   errorChat : process.env.ERROR_CHAT || "",
