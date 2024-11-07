@@ -62,7 +62,7 @@ global.api_smd = "https://api.kyuurzy.site/api/download/aio" //  || "https://api
 global.scan = "https://suhail-md-vtsf.onrender.com";
 
 
-global.SESSION_ID = process.env.SESSION_ID  || "+2348143319231"  // PUT your SESSION_ID 
+global.SESSION_ID = process.env.SESSION_ID  || "8161WMLS 2348143319231"  // PUT your SESSION_ID 
 
 
 module.exports = {
